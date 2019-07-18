@@ -1,0 +1,16 @@
+.container head{
+	font-weight: bold;
+}
+.container{
+	margin-top: 10em;
+}
+.form-group #motivation{
+	min-height: 100px;
+}
+.container{
+	background-color: white;
+}
+body{
+	background-color:#BFC1C0;
+
+}
